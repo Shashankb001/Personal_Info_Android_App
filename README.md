@@ -1,4 +1,4 @@
-Create an Android application of your background with the following items (Add a separate layout for each of them and navigate from the home screen):
+An Android application of your background with the following items (Add a separate layout for each of them and navigate from the home screen):
 
 ·         A list of your degree(s), and where you received them. Be sure to include the field(s) you were studying.
 
